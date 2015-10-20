@@ -11,5 +11,10 @@ TODO
   <li>Create front-end
   <li>Create back-end for blog feature
 
-Technology used, hope to use, or may look into
+Technologies used, hope to use, or may look into
+  <li>Node.js
+  <li>Express.js
+  <li>MongoDB
+  <li>Twilio
+  <li>Bootstrap
   <li>Jekyll
