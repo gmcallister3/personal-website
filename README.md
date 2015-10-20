@@ -3,8 +3,8 @@ My personal website, hoping to include blog and other features.
 
 Hosted on Azure
 Domain names:
-  <b>http://gmcallister.com</b>
-  <b>http://graham-mcallister.azurewebsites.net</b>
+  <li><b>http://gmcallister.com</b>
+  <li><b>http://graham-mcallister.azurewebsites.net</b>
 
 TODO
   -Build framework
