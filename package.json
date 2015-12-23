@@ -1,8 +1,8 @@
 {
-  "name": "gmcallister",
+  "name": "personal-website",
   "version": "1.0.0",
-  "description": "Personal website",
-  "main": "index.js",
+  "description": "Graham McAllister's personal, professional website",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
