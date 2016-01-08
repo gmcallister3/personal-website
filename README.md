@@ -3,9 +3,6 @@ My personal website; a simple, one-page personal website for professional use.
 
   <li><b>http://gmcallister.com</b>
   <li><b>http://graham-mcallister.azurewebsites.net</b>
-
-<u>TODO</u>
-  <li>Get email messaging system working (formspree.io)
   
   
 
