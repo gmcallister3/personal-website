@@ -1,21 +1,41 @@
 # personal-website
-My personal website, hoping to include blog and other features.
+My personal website; a simple, one-page personal website for professional use.
 
-Hosted on Azure
-Domain names:
   <li><b>http://gmcallister.com</b>
   <li><b>http://graham-mcallister.azurewebsites.net</b>
 
 <u>TODO</u>
-  <li>Build framework
-  <li>Create front-end
-  <li>Create back-end for blog feature
+  <li>Get email messaging system working
+  
+  
 
-<u>Technologies used, hope to use, or may look into</u>
-  <li>Node.js
-  <li>Express.js
-  <li>MongoDB
-  <li>Twilio
-  <li>Bootstrap
-  <li>Jekyll
-  <li>Handlebars.js
+
+
+Prologue by HTML5 UP
+html5up.net | @n33co
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+
+This is Prologue, a simple, single page responsive site template. It features a
+clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
+
+AJ
+n33.co @n33co dribbble.com/n33
+
+PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+
+
+Credits:
+
+	Icons:
+		Font Awesome (fortawesome.github.com/Font-Awesome)
+
+	Other
+		jQuery (jquery.com)
+		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
+		CSS3 Pie (css3pie.com)
+		background-size polyfill (github.com/louisremi)
+		Respond.js (j.mp/respondjs)
+		jquery.scrolly (n33.co)
+		jquery.scrollzer (n33.co)
+		Skel (skel.io)
