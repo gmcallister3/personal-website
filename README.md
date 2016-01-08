@@ -5,24 +5,12 @@ My personal website; a simple, one-page personal website for professional use.
   <li><b>http://graham-mcallister.azurewebsites.net</b>
 
 <u>TODO</u>
-  <li>Get email messaging system working
+  <li>Get email messaging system working (formspree.io)
   
   
 
 
 
-Prologue by HTML5 UP
-html5up.net | @n33co
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-This is Prologue, a simple, single page responsive site template. It features a
-clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
-
-AJ
-n33.co @n33co dribbble.com/n33
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
 
 
 Credits:
@@ -39,3 +27,6 @@ Credits:
 		jquery.scrolly (n33.co)
 		jquery.scrollzer (n33.co)
 		Skel (skel.io)
+		Prologue Template by HTML5 UP
+		AJ | n33.co | @n33co | dribbble.com/n33
+		Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
