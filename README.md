@@ -14,9 +14,6 @@ My personal website; a simple, one-page personal website for professional use.
 
 
 Credits:
-	
-	Template:
-    html5up.net | @n33co
 
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
@@ -30,6 +27,6 @@ Credits:
 		jquery.scrolly (n33.co)
 		jquery.scrollzer (n33.co)
 		Skel (skel.io)
-		Prologue by HTML5 UP
+		Prologue Template by HTML5 UP
 		AJ | n33.co | @n33co | dribbble.com/n33
 		Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
